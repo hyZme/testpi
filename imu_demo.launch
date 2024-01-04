@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<launch>
+  
+  <node name="imu_node" pkg="mpu_6050_driver" type="imu_node.py" >
+  </node>
+  
+</launch>
